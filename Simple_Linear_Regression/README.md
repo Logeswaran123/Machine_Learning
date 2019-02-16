@@ -1,2 +1,0 @@
-#SIMPLE LINEAR REGRESSION
-__________________________
