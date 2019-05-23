@@ -22,3 +22,7 @@ The algorithms used here are
 * Clustering
   1. K-means
   1. Heirarchial
+  
+  
+  
+  **To Learn more, connect with me:**[on Linkedin](https://www.linkedin.com/in/logeswaran-sivakumar-466129165 "Linkedin account")
