@@ -25,4 +25,4 @@ The algorithms used here are
   
   
   
-  **To Learn more, connect with me on **[Linkedin](https://www.linkedin.com/in/logeswaran-sivakumar-466129165 "Linkedin account")
+  **To Learn more, connect with me on** [Linkedin](https://www.linkedin.com/in/logeswaran-sivakumar-466129165 "Linkedin account")
